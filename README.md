@@ -158,6 +158,23 @@ user = memory.get_user_info(user_id='67890')
 
 欢迎提交 PR 和 Issue！
 
+---
+
+## 👥 社群
+
+欢迎加入 OpenClaw 中文交流群！
+
+![OpenClaw 中文社群](./assets/community-qr.png)
+
+**群信息**:
+- 群名：OpenClaw 中文交流群
+- 群号：1083444634
+- 用途：OpenClaw 用户交流、技能分享、问题讨论
+
+*扫码加入 OpenClaw 中文交流群*
+
+---
+
 ## 📄 许可证
 
 MIT License © 小黄鸡工坊
